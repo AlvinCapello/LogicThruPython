@@ -20,5 +20,5 @@ def half(x: int) -> int:
         An integer `z` such that `z`\ ``+``\ `z`\ ``=``\ `x`.
     """
     return x // 2
-     # assert x % 2 == 0
+    assert x % 2 == 0
     # Task 0.1

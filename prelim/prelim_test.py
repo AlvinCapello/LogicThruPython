@@ -6,7 +6,7 @@
 
 """Tests for the prelim.prelim module."""
 
-# from prelim.prelim import half
+from prelim.prelim import half
 
 def test_half(debug=False):
     if debug:
